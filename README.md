@@ -1,4 +1,4 @@
-# LHV-Hydrogen-Fuel-Cell-Thermodyanmic-Efficiency
+# Hydrogen-Fuel-Cell-Thermodynamic-Efficiency
 
 ##### Built with: Python, matplotlib and NumPy
 
